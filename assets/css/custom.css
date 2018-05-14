@@ -1,0 +1,80 @@
+#banner:after {
+    background-image: none !important;
+}
+
+.spotlight:before {
+    background-image: none !important;
+}
+
+.black-text {
+    color: black !important;
+}
+
+img.download-link {
+    height: 40px !important;
+}
+
+.coin-holder {
+    text-align: center;
+    padding-bottom: 15px;
+    /* height: 80px !important; */
+}
+
+.coin-holder img {
+    display: inline-block;
+    white-space: nowrap;
+    height: 50px;
+}
+
+.upper-case {
+    text-transform: uppercase;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.nav-arrows {
+    font-size: 25px;
+}
+
+.nav-arrows > i {
+    margin: 0px 5px;
+    cursor: pointer !important;
+}
+
+.wrapper.style2 {
+    background-image: url('images/pic04-02.jpg');
+}
+
+a.no-effect {
+    color: white !important;
+    border-bottom: 0px !important;
+}
+
+.no-style-list {
+  list-style: none !important;
+}
+
+.block-profile-company {
+  font-size: 1em;
+  color: #E44C65;
+  display: block;
+}
+
+#banner .content .image {
+  border-radius: 0px !important;
+  height: 100% !important;
+}
+
+#banner .content .image img {
+  border-radius: 0px !important;
+}
+
+.image:before {
+  background-image: none !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
