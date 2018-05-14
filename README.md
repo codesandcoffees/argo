@@ -1,5 +1,3 @@
--# Arg0Asia.github.io
- -Argo Asia official landing page
- -
- -## Vanilla HTML Version
- -[Demo](https://arg0asia.github.io/)
+# ARGO Landing Page
+
+View demo [here](https://codesandcoffees.github.io/argo/)
